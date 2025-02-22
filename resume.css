@@ -1,0 +1,45 @@
+.left{
+    
+  font-size: 17px;
+  
+ 
+}
+.right{
+  
+  font-size: 17px;   
+  
+}
+.har{
+  margin: 50px;      
+  
+}
+
+h3{
+  
+  color: rgb(21, 103, 176);
+  padding-top: 10px;
+}
+div.bharath{
+  float: left;
+  padding-top: 150px;
+  font-size: x-large;
+  width: 20%;
+  background-color: #F6AA92;
+  height: 900px;
+  
+
+  
+}
+.kumar{
+  float: right;
+  width: 75%;
+  
+  
+}
+.ul{
+  list-style-type: none;
+}
+li a{
+  text-decoration: none;
+
+}
